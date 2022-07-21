@@ -2,5 +2,7 @@
 
 to start the project in dev mode :
 -git clone
--npm i
--npm run dev
+
+-npm i or yarn install
+
+-npm run dev or yarn run dev
